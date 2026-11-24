@@ -140,7 +140,7 @@ flutter run -d chrome --web-browser-flag "--disable-web-security"
 
 ## 👥 Autori
 
-Progetto realizzato per il corso **21069 – Tecnologie Cloud e Mobile** (Università degli Studi di Bergamo):
+Progetto realizzato per il corso **Tecnologie Cloud e Mobile** (Università degli Studi di Bergamo):
 
 * **Tommaso Berzoini**
 * **Gabriele Ghezzi**
